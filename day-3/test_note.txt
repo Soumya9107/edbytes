@@ -1,0 +1,6 @@
+Open the page. Put index.html, app.js and style.css in one folder and open index.html in a browser.
+Add a task. Type “Buy milk” and click Add. The task should appear in the list, the input should clear, and the status line should say “Task added.”
+Reject blank input. Click Add with an empty field, then with only spaces. Nothing should be added, and the status line should ask you to enter a task.
+Add more tasks. Add two or three more, then check they appear in the order you entered them.
+Delete a task. Click Delete on a task in the middle. Only that one should disappear, and the status line should say “Task deleted.”
+Refresh test. Reload the page (F5). The remaining tasks should still be there.
